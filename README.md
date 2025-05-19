@@ -1,5 +1,5 @@
 # MSCPDS
-## Microsoft Copilot for Data Science Specialization
+## Microsoft Copilot for Data Science Specialization (3 course series)
 
 According to a 2023 Gartner study, 67% of mature organizations are creating new roles fo GenAI and 87% of these organizations have a dedicated AI team. Copilot for Data Science is tailored to help existing and aspiring data scientists prepare for these roles, through a robust specialization designed to integrate Generative AI (GenAI) into everyday data science practices.
 
